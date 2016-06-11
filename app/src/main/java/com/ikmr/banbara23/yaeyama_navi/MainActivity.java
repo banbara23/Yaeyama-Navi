@@ -1,6 +1,7 @@
 
 package com.ikmr.banbara23.yaeyama_navi;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
@@ -107,4 +108,20 @@ public class MainActivity extends AppCompatActivity
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+
+    public void foodClick(View view) {
+        Intent intent = new Intent(this, ItemListActivity.class);
+        startActivity(intent);
+    }
+
+    public void hotelClick(View view) {
+        Intent intent = new Intent(this, ItemListActivity.class);
+        startActivity(intent);
+    }
+
+    public void photoClick(View view) {
+        Intent intent = new Intent(this, FullscreenActivity.class);
+        startActivity(intent);
+    }
+
 }
