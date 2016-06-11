@@ -5,7 +5,7 @@
         jar="/Users/banbara23/dev/Yaeyama-Navi/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="9c3bd75cd26ef3100982ecefe0544dbd905818bb">
+        sha1="664643bbe95982171eb0ac16e0517339de14e96e">
         <dex dex="/Users/banbara23/dev/Yaeyama-Navi/app/build/intermediates/pre-dexed/debug/instant-run_23dbe698909a7e850467291083d557ac3fcb67fe.jar" />
     </item>
     <item
@@ -47,7 +47,7 @@
         jar="/Users/banbara23/dev/Yaeyama-Navi/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="c432691adf59d69782afb4a9f8caaec19e69e277">
+        sha1="8b29ec894a0d1cc672a6dfcc70de5a3ef4149e6f">
         <dex dex="/Users/banbara23/dev/Yaeyama-Navi/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_131065e3aeee467208a184d84684a269ff7bf4bd.jar" />
     </item>
     <item
@@ -70,6 +70,13 @@
         revision="23.0.2"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
         <dex dex="/Users/banbara23/dev/Yaeyama-Navi/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_004b7579a186df9a74abe817a68b9d12af4fb24a.jar" />
+    </item>
+    <item
+        jar="/Users/banbara23/dev/Yaeyama-Navi/app/build/intermediates/exploded-aar/com.github.zhaokaiqiang.klog/library/1.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d5e74c029eba4b8d4eeb7d680f5e6bb2cbf61bb">
+        <dex dex="/Users/banbara23/dev/Yaeyama-Navi/app/build/intermediates/pre-dexed/debug/com.github.zhaokaiqiang.klog-library-1.4.0_20b9c5eac38c6a6e3ebf61e67c05085b4093da62.jar" />
     </item>
 
 </items>
